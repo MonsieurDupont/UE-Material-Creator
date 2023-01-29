@@ -1,0 +1,16 @@
+Custom material;
+mtname=;
+opcity=;
+optext=;
+color1=;
+ctext1=;
+scale1=;
+xcoor1=;
+ycoor1=;
+angle1=;
+rough1=;
+rtext1=;
+metal1=;
+mtext1=;
+nrmal1=;
+ntext1=;
