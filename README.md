@@ -11,9 +11,8 @@ It has support for texture, roughness, metallic, normal and scaling, rotation an
 After creating your material, you can apply it to any mesh you want.
 
 **Note**: 
-This asset uses two plugins:
+This asset uses one plugins:
  - [Read and write file](https://www.unrealengine.com/marketplace/en-US/product/74b9f3d768c845ad8282fd4aa0cef343)
- - [Runtime image loader](https://www.unrealengine.com/marketplace/en-US/product/runtime-image-loader) ([github](https://github.com/RaiaN/RuntimeImageLoader))
 
 You have to have theses plugins enabled first.
 
