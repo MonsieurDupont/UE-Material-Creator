@@ -14,7 +14,7 @@ After creating your material, you can apply it to any mesh you want.
 This asset uses one plugins:
  - [Read and write file](https://www.unrealengine.com/marketplace/en-US/product/74b9f3d768c845ad8282fd4aa0cef343)
 
-You have to have theses plugins enabled first.
+You have to have this plugin enabled first.
 
 
 ## Features
